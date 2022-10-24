@@ -1,14 +1,14 @@
 # Babiraga Shell
-<pre align="center"><img src="https://i.ibb.co/x277nty/babiraga.png" width="45%"><br>
-This backdoor shell is a backdoor shell that supports bypass on some stubborn servers like litespeed etc.</pre>
+<pre align="center"><img src="https://i.ibb.co/x277nty/babiraga.png" width="45%"></pre><br>
+<pre>This backdoor shell is a backdoor shell that supports bypass on some stubborn servers like litespeed etc.</pre>
 
 # Login
-<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/form%20login.jpg" width="100%"><br>
+<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/form%20login.jpg" width="100%"></pre><br><pre>
 Encode password using base64 and the login display looks like page 404 not found.</pre>
 
 # Babiraga Shell Features
-<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/shell%20backdoor.jpg" width="100%"><br>
-<img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/shell%20backdoor%20with%20information%20server.jpg" width="100%"><br>
+<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/shell%20backdoor.jpg" width="100%"></pre><br>
+<pre><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/shell%20backdoor%20with%20information%20server.jpg" width="100%"><br>
 • Adminer (Get Adminer Login)
 • Auto Update Shell
 • Auto Root (Using PwnKit)
@@ -24,8 +24,8 @@ Encode password using base64 and the login display looks like page 404 not found
 </pre>
 
 # Auto Root
-<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/root.jpg" width="100%"><br>
-I tried auto root tools and g0tchaaaa! managed to root without any hassle!
+<pre align="center"><img src="https://raw.githubusercontent.com/bypass-shell/babiraga-shell/main/root.jpg" width="100%"></pre>
+<pre>I tried auto root tools and g0tchaaaa! managed to root without any hassle!</pre>
 
 # Download
 <pre>Download this backdoor shell only via Official GitHub:
@@ -37,5 +37,10 @@ You just need: CURL
 
 Apart from the link above, I can't guarantee it's safe from backdoor shell loggers and the like!</pre></pre>
 
+# Donate
+<pre>I developed it sacrificing my time and effort, to give me support, please donate via bitcoin:
+
+BTC ADDRESS: bc1qgadwandpr2pz35nkkgwculjpjcq5jp2h7p2su6
+</pre>
 # Legal
 <pre>This backdoor shell is only for educational purposes, if anyone uses it for illegal hacking activities and causes losses to some people, it is beyond our responsibility as the author.</pre>
